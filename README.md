@@ -1,7 +1,7 @@
 # Coffee Machine Data Analysis Using Excel
 This project was created to showcase some of my Microsoft Excel skills in cleaning the data, show my insights in a dashboard presented in another Excel sheet in the same workbook [here](https://github.com/ahmedgalaaali/Coffee-Machine-Analysis-Excel/blob/fdbcbdad8c0fc3fa3a4b53348b8ea05a7f0b2871/coffee_machine.xlsx), and then create a final report using Microsoft Word.
 ## Content
-1. [Overview of the Project](# Overview of the Project)
+1. [Overview of the Project](#overview-of-the-project)
 ## Overview of the Project
 - First, data in the format of a `.CSV` file was downloaded from Kaggle.com, called [Coffee Sales Analysis](https://www.kaggle.com/code/emilcollu/coffee-sales-analysis), data recorded by a coffee machine set up in someplace in Ukrain.
 - The data was then loaded and cleaned in Microsoft Excel where multiple changes were made, such as adding aiding columns, using various Excel tools and formulas, creating pivot tables, and pivot charts and even manipulating the style of the main table.
