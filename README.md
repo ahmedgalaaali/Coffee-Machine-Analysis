@@ -67,7 +67,7 @@ First of all, I had to format the range as a table to make the process faster wi
   df = pd.read_csv("C:\Mine\GitHub Projects\Coffee Machine\coffee_machine_csv.csv")
   df.describe()
   ```
-  ![image](https://github.com/user-attachments/assets/ca9430a4-b918-4edf-bd2f-abdfafebe177)
+![image](https://github.com/user-attachments/assets/a802a1b9-2ce8-4984-9688-4c35008574a1)
 
 ## Data Reporting
 **All of the mentioned insights are available in the `.pdf` file provided in the repo**
