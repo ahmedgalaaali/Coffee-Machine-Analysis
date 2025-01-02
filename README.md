@@ -112,7 +112,7 @@ First of all, I had to format the range as a table to make the process faster wi
 </div>
 
 ## Data Reporting
-**All of the mentioned insights are available in the `.pdf` file provided in the repo**
+**All of the mentioned insights are available in the [Coffee Machine Data Analysis Report](**
 ## Data Visualization
 Despite the limited capabilities provided by Excel copared to Power BI, a good looking, well formated dashboard was created by:
 - Collecting the **charts** created by the PivotTables in one area. Modified the look to fit the dashboard.
