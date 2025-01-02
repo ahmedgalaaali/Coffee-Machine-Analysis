@@ -68,6 +68,63 @@ First of all, I had to format the range as a table to make the process faster wi
   df.describe()
   ```
 ![image](https://github.com/user-attachments/assets/a802a1b9-2ce8-4984-9688-4c35008574a1)
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Revenue</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>count</th>
+      <td>2623.000000</td>
+    </tr>
+    <tr>
+      <th>mean</th>
+      <td>31.889478</td>
+    </tr>
+    <tr>
+      <th>std</th>
+      <td>5.015394</td>
+    </tr>
+    <tr>
+      <th>min</th>
+      <td>18.120000</td>
+    </tr>
+    <tr>
+      <th>25%</th>
+      <td>27.920000</td>
+    </tr>
+    <tr>
+      <th>50%</th>
+      <td>32.820000</td>
+    </tr>
+    <tr>
+      <th>75%</th>
+      <td>35.760000</td>
+    </tr>
+    <tr>
+      <th>max</th>
+      <td>40.000000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## Data Reporting
 **All of the mentioned insights are available in the `.pdf` file provided in the repo**
