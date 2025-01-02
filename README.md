@@ -67,21 +67,6 @@ First of all, I had to format the range as a table to make the process faster wi
   df = pd.read_csv("C:\Mine\GitHub Projects\Coffee Machine\coffee_machine_csv.csv")
   df.describe()
   ```
-![image](https://github.com/user-attachments/assets/a802a1b9-2ce8-4984-9688-4c35008574a1)
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
