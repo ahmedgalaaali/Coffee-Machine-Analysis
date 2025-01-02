@@ -23,7 +23,7 @@ First of all, I had to format the range as a table to make the process faster wi
   - Evening
   - Night
   - Late night
-- This step could help me later to show some useful insights that serve the analysis, here's the formula used:
+- This step could help me later to show some useful insights that serve the analysis, this step was accomplished by using a nested `=AND()` into `=IF()` formula:
   ```
   =IF(AND(B2>=TIME(4,0,0), B2<TIME(9,0,0)), "Early Morning",
   IF(AND(B2>=TIME(9,0,0), B2<TIME(12,0,0)), "Mid-Morning",
